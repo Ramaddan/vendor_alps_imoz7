@@ -1,4 +1,4 @@
-vendor_ALPS_IMOZ7
+vendor_alps_imoz7
 =================
 
 CyanogenMod device tree (IMO Onion Z7, mt6577)
