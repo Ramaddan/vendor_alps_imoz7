@@ -1,7 +1,7 @@
-vendor_wiko_s8073
+vendor_ALPS_IMOZ7
 =================
 
-CyanogenMod device tree s8073 (wiko cink slim, mt6577)
+CyanogenMod device tree (IMO Onion Z7, mt6577)
 
 DO NOT USE THIS REPOSITORY!!!! WIP
 
